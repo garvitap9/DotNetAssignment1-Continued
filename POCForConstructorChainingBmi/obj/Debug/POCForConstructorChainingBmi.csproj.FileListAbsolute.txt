@@ -1,0 +1,7 @@
+D:\DotNetAssignment1 Part2\POCForConstructorChainingBmi\bin\Debug\POCForConstructorChainingBmi.exe.config
+D:\DotNetAssignment1 Part2\POCForConstructorChainingBmi\bin\Debug\POCForConstructorChainingBmi.exe
+D:\DotNetAssignment1 Part2\POCForConstructorChainingBmi\bin\Debug\POCForConstructorChainingBmi.pdb
+D:\DotNetAssignment1 Part2\POCForConstructorChainingBmi\obj\Debug\POCForConstructorChainingBmi.csproj.AssemblyReference.cache
+D:\DotNetAssignment1 Part2\POCForConstructorChainingBmi\obj\Debug\POCForConstructorChainingBmi.csproj.CoreCompileInputs.cache
+D:\DotNetAssignment1 Part2\POCForConstructorChainingBmi\obj\Debug\POCForConstructorChainingBmi.exe
+D:\DotNetAssignment1 Part2\POCForConstructorChainingBmi\obj\Debug\POCForConstructorChainingBmi.pdb
