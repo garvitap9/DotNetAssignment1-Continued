@@ -1,0 +1,7 @@
+D:\DotNetAssignment1 Part2\PlayerApp\obj\Debug\PlayerApp.csproj.AssemblyReference.cache
+D:\DotNetAssignment1 Part2\PlayerApp\obj\Debug\PlayerApp.csproj.CoreCompileInputs.cache
+D:\DotNetAssignment1 Part2\PlayerApp\bin\Debug\PlayerApp.exe.config
+D:\DotNetAssignment1 Part2\PlayerApp\bin\Debug\PlayerApp.exe
+D:\DotNetAssignment1 Part2\PlayerApp\bin\Debug\PlayerApp.pdb
+D:\DotNetAssignment1 Part2\PlayerApp\obj\Debug\PlayerApp.exe
+D:\DotNetAssignment1 Part2\PlayerApp\obj\Debug\PlayerApp.pdb
