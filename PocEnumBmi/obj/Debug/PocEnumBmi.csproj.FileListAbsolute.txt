@@ -1,0 +1,7 @@
+D:\DotNetAssignment1 Part2\PocEnumBmi\bin\Debug\PocEnumBmi.exe.config
+D:\DotNetAssignment1 Part2\PocEnumBmi\bin\Debug\PocEnumBmi.exe
+D:\DotNetAssignment1 Part2\PocEnumBmi\bin\Debug\PocEnumBmi.pdb
+D:\DotNetAssignment1 Part2\PocEnumBmi\obj\Debug\PocEnumBmi.csproj.AssemblyReference.cache
+D:\DotNetAssignment1 Part2\PocEnumBmi\obj\Debug\PocEnumBmi.csproj.CoreCompileInputs.cache
+D:\DotNetAssignment1 Part2\PocEnumBmi\obj\Debug\PocEnumBmi.exe
+D:\DotNetAssignment1 Part2\PocEnumBmi\obj\Debug\PocEnumBmi.pdb

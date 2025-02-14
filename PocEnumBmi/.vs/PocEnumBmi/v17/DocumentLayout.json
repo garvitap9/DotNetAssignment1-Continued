@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNetAssignment1 Part2\\PocEnumBmi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E34DAC8C-5AFF-4448-A413-DC5124B40007}|PocEnumBmi.csproj|d:\\dotnetassignment1 part2\\pocenumbmi\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34DAC8C-5AFF-4448-A413-DC5124B40007}|PocEnumBmi.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34DAC8C-5AFF-4448-A413-DC5124B40007}|PocEnumBmi.csproj|d:\\dotnetassignment1 part2\\pocenumbmi\\bodytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34DAC8C-5AFF-4448-A413-DC5124B40007}|PocEnumBmi.csproj|solutionrelative:bodytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34DAC8C-5AFF-4448-A413-DC5124B40007}|PocEnumBmi.csproj|d:\\dotnetassignment1 part2\\pocenumbmi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34DAC8C-5AFF-4448-A413-DC5124B40007}|PocEnumBmi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BodyType.cs",
+              "DocumentMoniker": "D:\\DotNetAssignment1 Part2\\PocEnumBmi\\BodyType.cs",
+              "RelativeDocumentMoniker": "BodyType.cs",
+              "ToolTip": "D:\\DotNetAssignment1 Part2\\PocEnumBmi\\BodyType.cs",
+              "RelativeToolTip": "BodyType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:37:50.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\DotNetAssignment1 Part2\\PocEnumBmi\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "D:\\DotNetAssignment1 Part2\\PocEnumBmi\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAwwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:37:26.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNetAssignment1 Part2\\PocEnumBmi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DotNetAssignment1 Part2\\PocEnumBmi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwAwAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:37:11.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
