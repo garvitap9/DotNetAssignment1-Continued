@@ -1,0 +1,7 @@
+D:\DotNetAssignment1 Part2\StudentApp\bin\Debug\StudentApp.exe.config
+D:\DotNetAssignment1 Part2\StudentApp\bin\Debug\StudentApp.exe
+D:\DotNetAssignment1 Part2\StudentApp\bin\Debug\StudentApp.pdb
+D:\DotNetAssignment1 Part2\StudentApp\obj\Debug\StudentApp.csproj.AssemblyReference.cache
+D:\DotNetAssignment1 Part2\StudentApp\obj\Debug\StudentApp.csproj.CoreCompileInputs.cache
+D:\DotNetAssignment1 Part2\StudentApp\obj\Debug\StudentApp.exe
+D:\DotNetAssignment1 Part2\StudentApp\obj\Debug\StudentApp.pdb
