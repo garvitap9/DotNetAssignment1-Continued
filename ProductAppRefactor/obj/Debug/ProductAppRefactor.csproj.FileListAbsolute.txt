@@ -1,0 +1,7 @@
+D:\DotNetAssignment1 Part2\ProductAppRefactor\obj\Debug\ProductAppRefactor.csproj.AssemblyReference.cache
+D:\DotNetAssignment1 Part2\ProductAppRefactor\obj\Debug\ProductAppRefactor.csproj.CoreCompileInputs.cache
+D:\DotNetAssignment1 Part2\ProductAppRefactor\bin\Debug\ProductAppRefactor.exe.config
+D:\DotNetAssignment1 Part2\ProductAppRefactor\bin\Debug\ProductAppRefactor.exe
+D:\DotNetAssignment1 Part2\ProductAppRefactor\bin\Debug\ProductAppRefactor.pdb
+D:\DotNetAssignment1 Part2\ProductAppRefactor\obj\Debug\ProductAppRefactor.exe
+D:\DotNetAssignment1 Part2\ProductAppRefactor\obj\Debug\ProductAppRefactor.pdb
